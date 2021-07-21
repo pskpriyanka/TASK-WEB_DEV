@@ -1,0 +1,31 @@
+.bgcolor{
+    background-color: transparent;
+}
+.logo
+    {
+        
+        padding: 60px 80px;
+    
+    }
+
+  
+.large-t{
+    font-size: 72px;
+    margin: 30px 0;
+    color: rgb(255, 241, 116);
+    font-weight: 900;
+
+}
+a.btn{
+    margin: 40px 60px;
+    width: 300px;
+    padding: 100px;
+    border-radius: 90px;
+
+
+}
+a.btn-first{
+    background-color: teal;
+    font-size: 40px;
+
+}
